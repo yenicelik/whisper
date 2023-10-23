@@ -1,4 +1,4 @@
-numba
+numba==0.56.3
 numpy
 torch==1.13.1
 tqdm
