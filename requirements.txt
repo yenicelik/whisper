@@ -1,6 +1,6 @@
 numba
 numpy
-torch==0.13.1
+torch==1.13.1
 tqdm
 more-itertools
 tiktoken==0.3.3
